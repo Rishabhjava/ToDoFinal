@@ -21,7 +21,7 @@ export default function ElipsisMenu({
       // After saving the state, proceed with the logout
       signOut(auth).then(() => {
         // Sign-out successful.
-            navigate("/Signup");
+            navigate("/Login");
             console.log("Signed out successfully")
         }).catch((error) => {
         // An error happened.
