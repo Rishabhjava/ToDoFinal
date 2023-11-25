@@ -5,16 +5,16 @@
 
 - [Overview](#overview)
   - [The Product](#frontend-behaviour)
+- [Usage][#usage]
   - [Run Commands](#frontend-behaviour)
   - [Links](#links)
   - [Built with](#built-with)
-- [Author](#author)
 
 ## Overview
 
 ### The Assignment
 
-## Users should be able to:
+### Users should be able to:
 
 - Login, Signup, and Logout.
 - View the optimal layout for the app depending on their device's screen size.
@@ -25,7 +25,7 @@
 - Add, manage, and complete sub-subtasks within tasks.
 - Hide/show the board sidebar.
 
-## Frontend Behaviour:
+### Frontend Behaviour:
 
 ### Boards
 - Clicking different boards in the sidebar changes to the selected board.
@@ -49,9 +49,11 @@
  User Experience
 - Tasks can be dragged and dropped into different columns.
 
+## Usage
+
 ## Run Commands
   You could use the project on the live link to test out! However, if you wish to run it on your local PC, the run commands are as below:
-  
+
 
 ## Links
 
