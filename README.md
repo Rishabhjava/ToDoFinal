@@ -58,8 +58,8 @@
 ## Links
 
 - Project Demo: [link]()
-- Live Site URL: [link](https://kanban-task-management-app.netlify.app/)
-- Github Repo: [link]()
+- Live Site URL: [link](https://aya-alpha.vercel.app/login)
+- Github Repo: [link](https://github.com/Rishabhjava/ToDoFinal)
 
 ## Built with
 
