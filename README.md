@@ -54,10 +54,16 @@
 ## Run Commands
   You could use the project on the live link to test out! However, if you wish to run it on your local PC, the run commands are as below:
 
+  npm install i
+  npm start
+
+  Navigate to localhost on browser.
+
+
 
 ## Links
 
-- Project Demo: [link]()
+- Project Demo: [link](https://www.loom.com/share/09899001dc224a49ae6657d618ec05fa?sid=31a7e01f-dbfb-4979-af89-7a93613236c4)
 - Live Site URL: [link](https://aya-alpha.vercel.app/login)
 - Github Repo: [link](https://github.com/Rishabhjava/ToDoFinal)
 
@@ -70,3 +76,7 @@
 - [React](https://reactjs.org/) - JS library
 - [Redux](https://redux.js.org/) - State management tool
 
+## AI Statement
+
+- Used AI for rewriting code snippets 
+- Used AI for commenting parts of the code
